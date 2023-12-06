@@ -1,6 +1,6 @@
 package animal;
 
-public class Human extends Animal {
+public class Human extends Animal implements Thinkable {
     //フィールド
     private String hobby;
 
